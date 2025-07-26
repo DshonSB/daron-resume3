@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/daron-resume/static/css/main.e6c13ad2.css",
+    "main.js": "/daron-resume/static/js/main.124ad417.js",
+    "static/js/453.bb2f2b0f.chunk.js": "/daron-resume/static/js/453.bb2f2b0f.chunk.js",
+    "index.html": "/daron-resume/index.html",
+    "main.e6c13ad2.css.map": "/daron-resume/static/css/main.e6c13ad2.css.map",
+    "main.124ad417.js.map": "/daron-resume/static/js/main.124ad417.js.map",
+    "453.bb2f2b0f.chunk.js.map": "/daron-resume/static/js/453.bb2f2b0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.124ad417.js"
+  ]
+}
